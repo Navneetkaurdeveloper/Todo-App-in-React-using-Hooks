@@ -1,7 +1,7 @@
 ![Screenshot (35)](https://user-images.githubusercontent.com/30326503/84885316-c8db1d80-b08a-11ea-8957-3c30a3036c3b.png)
 
 
-This the the  Todo app in which i have used following things
+This the the  Todo app using material UI  in which i have used following things
 1.Hooks to Get data
 2.Adding list to Array
 3.Empty the input List
