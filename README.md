@@ -1,3 +1,18 @@
+![Screenshot (35)](https://user-images.githubusercontent.com/30326503/84885316-c8db1d80-b08a-11ea-8957-3c30a3036c3b.png)
+
+
+This the the  Todo app in which i have used following things
+1.Hooks to Get data
+2.Adding list to Array
+3.Empty the input List
+4.Adding todo components and states
+5.Getting Id of todo list
+6. Used mapping
+7. linethrough to the item that are done by clicking Delete Icon
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
