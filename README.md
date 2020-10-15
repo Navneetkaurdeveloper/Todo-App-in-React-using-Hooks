@@ -9,13 +9,15 @@ This the the  Todo app using material UI  in which i have used following things
 
 3.Empty the input List
 
+
 4.Adding todo components and states
+
 
 5.Getting Id of todo list
 
-6. Used mapping
+6.Used mapping
 
-7. linethrough to the item that are done by clicking Delete Icon
+7.linethrough to the item that are done by clicking Delete Icon
 
 
 
